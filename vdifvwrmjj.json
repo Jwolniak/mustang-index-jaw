@@ -1,0 +1,25 @@
+{
+    "firstName": "Pete",
+    "lastName" : "The Cat",
+    "preferredName":"Pete",
+    "email":"petethecat@lewisu.edu",
+    "phoneNumber":"708-266-5228",
+    "class":"cpsc-24700-001",
+    "room":"AS-104-A",
+    "startTime":"3pm CT",
+    "seatNumber":"",
+    "inPerson":[
+    ],
+    "virtual":[
+        "Monday",
+        "Wednesday",
+        "Friday"
+    ],
+    "city":"Cat Town",
+    "state":"FL",
+    "zip":"32803",
+    "lat":"28.5384",
+    "lng":"-81.3789",
+    "favoriteHobby":"Rocking in his School Shoes",
+    "favoriteColor":"White"
+}

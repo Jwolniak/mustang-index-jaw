@@ -1,0 +1,25 @@
+{
+    "firstName": "Peter",
+    "lastName" : "Parker",
+    "preferredName":"Spider-Man",
+    "email":"wallclimber@lewisu.edu",
+    "phoneNumber":"800-spd-rman",
+    "class":"cpsc-24700-001",
+    "room":"AS-104-A",
+    "startTime":"3pm CT",
+    "seatNumber":"",
+    "inPerson":[
+    ],
+    "virtual":[
+        "Monday",
+        "Wednesday",
+        "Friday"
+    ],
+    "city":"Queens",
+    "state":"NY",
+    "zip":"11375",
+    "lat":"40.7282",
+    "lng":"-73.7949",
+    "favoriteHobby":"Photography",
+    "favoriteColor":"Red"
+}
